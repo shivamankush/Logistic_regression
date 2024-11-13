@@ -14,5 +14,7 @@ This data set contains the following features:
 * 'Country': Country of consumer
 * 'Timestamp': Time at which consumer clicked on Ad or closed window
 * 'Clicked on Ad': 0 or 1 indicated clicking on Ad
+
+
 Have performed some EDA(Exploratory Data Analysis) and then used Logistic model to predict whether or not a particular internet user clicked on an Advertisement on a company website
 And have calculated classification_report and confusion_matrix to check performance of the model
